@@ -7,7 +7,7 @@ int main()
 
 
 
-
+cout <<"shabi"<<endl;
 
 	return 0;
 }
